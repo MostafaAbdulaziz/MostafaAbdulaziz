@@ -13,10 +13,6 @@
 
 - 📱 WhatsApp number is **01287970041**
 
-- 🎳 LinkedIn account is **[My LinkedIn](www.linkedin.com/in/mostafa-abdulaziz-053b79206)**
-
-- 🚡 Facebook account is  **[My Facebook](https://www.facebook.com/profile.php?id=100006514513730)**
-
 - 📫 Gmail account is  **mostafamosalem56@gmail.com**
 
 
@@ -30,11 +26,8 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,flutter,dart,firebase,java,mysql" /><br>
 </div>
-
-<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <br>
 <div align="center">
