@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm MostafaAbdulaziz</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mosafa+Abdel+Aziz!+😎;" />
+</div>
+
+<br>
 <h3 align="center">Interested in mobile development using Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaabdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaabdulaziz" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MostafaAbdulaziz?tab=repositories](https://github.com/MostafaAbdulaziz?tab=repositories)
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MostafaAbdulaziz?tab=repositories)**.
 
 - 📫 How to reach me **mostafamosalem56@gmail.com**
 
