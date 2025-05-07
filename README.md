@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mostafamosalem56@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r0ghKixZLOfVtSwl57Et9om6lVZU5YMc/view?usp=sharing](https://drive.google.com/file/d/1r0ghKixZLOfVtSwl57Et9om6lVZU5YMc/view?usp=sharing)
+- 📄 You can know my experiences through [My CV](https://drive.google.com/file/d/1r0ghKixZLOfVtSwl57Et9om6lVZU5YMc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
