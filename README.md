@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafaabdulaziz&show_icons=true&locale=en" alt="mostafaabdulaziz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaabdulaziz&" alt="mostafaabdulaziz" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MostafaAbdulaziz&theme=dark&hide_border=true&border_radius=3.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" /></a>
