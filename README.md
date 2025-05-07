@@ -61,7 +61,7 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="www.linkedin.com/in/mostafa-abdulaziz-053b79206" target="_blank">
+    <a href="https://www.linkedin.com/in/mostafa-abdulaziz-053b79206/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   <a href="mailto:mostafamosalem56@gmail.com">
