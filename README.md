@@ -9,7 +9,7 @@
 
 - 📅 You can know my experiences through **[My CV](https://drive.google.com/file/d/1r0ghKixZLOfVtSwl57Et9om6lVZU5YMc/view?usp=sharing)**
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MostafaAbdulaziz?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/MostafaAbdulaziz?tab=repositories)**
 
 - 📱 WhatsApp number is **01287970041**
 
