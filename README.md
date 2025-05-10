@@ -3,9 +3,17 @@
 </div>
 
 <br>
-<h3 align="center">Interested in mobile development using Flutter</h3>
+<h3 align="center">I'm a Software Engineer, "Mobile application developer using Flutter"</h3>
 
 ## 🙋‍♂️ About Me:
+
+- 👨‍💻 As a Flutter developer, I am passionate about creating innovative and user-friendly mobile applications.
+
+- 🚀 Strong Programming Skills: Dart, Java.
+
+- 🗄️ Understanding of SQL & Sqflite Databases.
+
+- 💻 Desktop Application Development: Java-based GUI apps.
 
 - 📅 You can know my experiences through **[My CV](https://drive.google.com/file/d/1r0ghKixZLOfVtSwl57Et9om6lVZU5YMc/view?usp=sharing)**
 
@@ -13,7 +21,7 @@
 
 - 📱 WhatsApp number is **01287970041**
 
-- 📱 The contact number is **01091592838**
+- 📱 The calling number is **01091592838**
 
 - 📫 Gmail account is  **mostafamosalem56@gmail.com**
 
@@ -51,14 +59,14 @@
 ## 🤝 Connect With Me:
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/mostafa-abdulaziz-053b79206/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:mostafamosalem56@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+     <a href="https://www.linkedin.com/in/mostafa-abdulaziz-053b79206/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-        <a href="https://www.facebook.com/profile.php?id=100006514513730">
-    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=mostafamosalem56@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+     <a href="https://www.facebook.com/profile.php?id=100006514513730" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
